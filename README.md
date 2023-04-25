@@ -1,16 +1,16 @@
-# ebook_mvvm_app
+E-Books App :
 
-A new Flutter project.
+  MVVM, SOLID Principles, Clean Code, API, BLoC, GoRouter, Responsive UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Video:-
 
-A few resources to get you started if this is your first Flutter project:
+https://drive.google.com/file/d/1m-cQXI-rj2OzjPKiyH8pklHYpwpYU_vC/view
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshots:-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Splash Screen <br/>
+![image](https://user-images.githubusercontent.com/113001767/234313257-a6a630ad-d62c-450d-8f4a-52a0dc6afb24.png)
+
+Home Screen <br/>
+![image](https://user-images.githubusercontent.com/113001767/234313434-fb573760-6c07-4600-a645-ffd2a3b122b4.png)
