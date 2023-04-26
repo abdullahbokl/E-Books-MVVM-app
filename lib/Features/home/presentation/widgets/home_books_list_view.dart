@@ -19,7 +19,6 @@ class HomeBooksListView extends StatelessWidget {
       child: BlocBuilder<EbooksCubit, EbooksState>(
         builder: (context, state) {
           if (state is EBooksSuccess) {
-            print(state.books.length);
             return _booksList(state.books);
           } else if (state is EBooksFailure) {
             return ErrorWidget(state.errMessage);
